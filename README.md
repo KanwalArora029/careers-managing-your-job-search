@@ -30,7 +30,7 @@ As a jobseeker, you can also think about conversion rates as a way to measure yo
 
 Overall, funnels are a good way to budget how much time and outreach you should do. They also remind us that rejection is normal. 
 
-A job search funnel looks something like this:  ! [https://s3.amazonaws.com/learn-verified/CareersCurriculumSalesFunnel.jpg]
+A job search funnel looks something like this:  ![https://s3.amazonaws.com/learn-verified/CareersCurriculumSalesFunnel.jpg]
 
 Like a salesperson, you want to start off by making many contacts. Some of these will turn into phone calls and informal meetings. Sometimes, these connections will introduce you to a contact of theirs at a particular company. From these informal meetings, fewer will lead to interviews. That’s okay, that’s how the job search (aka sales) process works! And then all the way at the bottom of the funnel is a job offer — the fewest in number.
 
