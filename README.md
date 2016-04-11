@@ -61,9 +61,27 @@ As a committed jobseeker you’ll:
 
 If you don't commit to the job search in this way and don't track your activities, you're far less likely to get a job offer, and far less likely for an offer to be the one that you want.
 
-## Assignment
+## Assignment- Job Search Tracker
 
-Create a Google Sheets spreadsheet (based off the sample tracker linked in this document) to track your job search activities, share that doc with your career counselor. 
+Create a Google Sheets spreadsheet that's a copy of the [sample tracker](https://docs.google.com/spreadsheets/d/1DJAtzaa68xlqmqC0_kIOKCH_-yodnfOvzPso0tCCVIQ/edit#gid=0) to track your job search activities, share that doc with your career counselor. 
+
+In this case, when you make a copy of this tracker, retitle the sheet to be “”Your Name”+ Job Search Tracker”.
+
+Fill out anything you've done to get you started. 
+
+**Submit** this assignment to careerprep@flatironschool.com. Remember in the subject line, to include your name and this specific assignment. Assignment titles will always be in the Assignment heading. If there is an assignment without a title next to it, that means these are action items for you to follow but you won’t need to submit anything to us. But always complete the action items!
+
+In this case, your email subject line will be “”Your Name” + Job Search Tracker”
+
+In the body of your email again include
+
+>Your Name
+
+>Assignment Title
+
+>Your City, State
+
+>Url link to this specific google doc
 
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/careers-managing-your-job-search'>careers managing your job search </a> on Learn.co and start learning to code for free.</p>
