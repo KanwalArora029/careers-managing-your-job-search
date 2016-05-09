@@ -69,7 +69,9 @@ In this case, when you make a copy of this tracker, retitle the sheet to be “�
 
 Fill out anything you've done to get you started. 
 
-**Submit** this assignment to careerprep@flatironschool.com. Remember in the subject line, to include your name and this specific assignment. Assignment titles will always be in the Assignment heading. If there is an assignment without a title next to it, that means these are action items for you to follow but you won’t need to submit anything to us. But always complete the action items!
+**Email**  your assignment to your coach. You'll be assigned a coach once you're through ~75% of the full stack web track so if you don't have a coach now, just keep learning to code and we'll get you set up with one when we feel you're ready to focus on career preparation in addition to technical curriculum. Once you have a coach, you can start submitting assignments"
+
+Remember in the subject line, to include your name and this specific assignment. Assignment titles will always be in the Assignment heading. If there is an assignment without a title next to it, that means these are action items for you to follow but you won’t need to submit anything to us. But always complete the action items!
 
 In this case, your email subject line will be “”Your Name” + Job Search Tracker”
 
