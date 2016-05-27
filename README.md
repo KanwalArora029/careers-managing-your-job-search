@@ -61,15 +61,13 @@ As a committed jobseeker you’ll:
 
 If you don't commit to the job search in this way and don't track your activities, you're far less likely to get a job offer, and far less likely for an offer to be the one that you want.
 
-## Assignment- Job Search Tracker
+## Assignment - Job Search Tracker
 
-Create a Google Sheets spreadsheet that's a copy of the [sample tracker](https://docs.google.com/spreadsheets/d/1DJAtzaa68xlqmqC0_kIOKCH_-yodnfOvzPso0tCCVIQ/edit#gid=0) to track your job search activities, share that doc with your career counselor. 
+Open this [sample job search tracker](https://docs.google.com/spreadsheets/d/1DJAtzaa68xlqmqC0_kIOKCH_-yodnfOvzPso0tCCVIQ/edit#gid=0), make a copy of it, and share that doc with your coach with edit privileges. Name your new copy “Your Name” + "Job Search Tracker”.
 
-In this case, when you make a copy of this tracker, retitle the sheet to be “”Your Name”+ Job Search Tracker”.
+Fill out anything you've done so far as it relates to networking for your job search. On the doc there are two tabs that track both actual meetings/interviews you have scheduled and outreach you plan to do/companies you want to target in your search. 
 
-Fill out anything you've done to get you started. 
-
-**Email**  your assignment to your coach. You'll be assigned a coach once you're through ~75% of the full stack web track so if you don't have a coach now, just keep learning to code and we'll get you set up with one when we feel you're ready to focus on career preparation in addition to technical curriculum. Once you have a coach, you can start submitting assignments"
+**Email** the link of the url to your coach for tracking purposes. You'll be assigned a coach once you're through ~75% of the full stack web track so if you don't have a coach now, just keep learning to code and we'll get you set up with one when we feel you're ready to focus on career preparation in addition to technical curriculum. Once you have a coach, you can start submitting assignments.
 
 Remember in the subject line, to include your name and this specific assignment. Assignment titles will always be in the Assignment heading. If there is an assignment without a title next to it, that means these are action items for you to follow but you won’t need to submit anything to us. But always complete the action items!
 
