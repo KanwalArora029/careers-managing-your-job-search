@@ -48,7 +48,7 @@ Spreadsheets allow you to store all your job search related activities in a cent
 
 If you don’t track your progress, it may feel like you’ve done a lot of networking, but in reality only reached out to a handful of people. A job search tracker will show the progress you've made at a given time. With one, it's easy to see if you need to do extra outreach or not.
 
-To make thing easier, here is a ready-to-go [job search tracker spreadsheet template](https://docs.google.com/spreadsheets/d/1DJAtzaa68xlqmqC0_kIOKCH_-yodnfOvzPso0tCCVIQ/edit#gid=0) that you can use. 
+To make thing easier, here is a ready-to-go [job search tracker spreadsheet template](https://docs.google.com/spreadsheets/d/1B3Xn3eXOCz-8PTo1BKv-JRVAS7Hsz3UNx__6YJK14Ps/edit#gid=2009025976) that you can use. There is a specific tab to track your job search activity. 
 
 ## Be Active
 
@@ -63,15 +63,19 @@ If you don't commit to the job search in this way and don't track your activitie
 
 ## Assignment - Job Search Tracker
 
-Open this [sample job search tracker](https://docs.google.com/spreadsheets/d/1DJAtzaa68xlqmqC0_kIOKCH_-yodnfOvzPso0tCCVIQ/edit#gid=0), make a copy of it, and share that doc with your coach with edit privileges. Name your new copy “Your Name” + "Job Search Tracker”.
+Open this [sample job search tracker](https://docs.google.com/spreadsheets/d/1B3Xn3eXOCz-8PTo1BKv-JRVAS7Hsz3UNx__6YJK14Ps/edit#gid=2009025976), make a copy of it, and share that doc with your coach with edit privileges. Name your new copy “Your Name” + "Job Search Tracker”.
 
-Fill out anything you've done so far as it relates to networking for your job search. On the doc there are two tabs that track both actual meetings/interviews you have scheduled and outreach you plan to do/companies you want to target in your search. 
+This tracker has 3 tabs that track the following things:
 
-**Email** the link of the url to your coach for tracking purposes. You'll be assigned a coach once you're through ~75% of the full stack web track so if you don't have a coach now, just keep learning to code and we'll get you set up with one when we feel you're ready to focus on career preparation in addition to technical curriculum. Once you have a coach, you can start submitting assignments.
+1. The Career Prep Assignments you've completed; you need to manually track the dates you submit each assignment and link to each assignment in the designated area
+2. Your job search activity; the companies you're talking to, the contact names at those companies, the status of each of your interviews
+3. Your target leads/companies; these are companies/people you hope to talk to in the near future. Track whatever information is helpful for you, and once that conversation becomes real, transfer that data to the "activity" tab. 
+
+**Email** the link of your job search tracker url to your coach for tracking purposes. You'll be assigned a coach once you're through ~75% of the full stack web track so if you don't have a coach now, just keep learning to code and we'll get you set up with one when we feel you're ready to focus on career preparation in addition to technical curriculum. Once you have a coach, you can start submitting assignments.
 
 Remember in the subject line, to include your name and this specific assignment. Assignment titles will always be in the Assignment heading. If there is an assignment without a title next to it, that means these are action items for you to follow but you won’t need to submit anything to us. But always complete the action items!
 
-In this case, your email subject line will be “”Your Name” + Job Search Tracker”
+In this case, your email subject line will be “Your Name” + "Job Search Tracker”
 
 In the body of your email again include
 
