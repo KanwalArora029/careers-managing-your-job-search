@@ -48,7 +48,7 @@ Spreadsheets allow you to store all your job search related activities in a cent
 
 If you don’t track your progress, it may feel like you’ve done a lot of networking, but in reality only reached out to a handful of people. A job search tracker will show the progress you've made at a given time. With one, it's easy to see if you need to do extra outreach or not.
 
-To make thing easier, here is a ready-to-go [job search tracker spreadsheet template](https://docs.google.com/spreadsheets/d/1B3Xn3eXOCz-8PTo1BKv-JRVAS7Hsz3UNx__6YJK14Ps/edit#gid=2009025976) that you can use. There is a specific tab to track your job search activity. 
+To make things easier, here is a ready-to-go [job search tracker spreadsheet template](https://docs.google.com/spreadsheets/d/1B3Xn3eXOCz-8PTo1BKv-JRVAS7Hsz3UNx__6YJK14Ps/edit#gid=2009025976) that you can use. There is a specific tab to track your job search activity. 
 
 ## Be Active
 
@@ -89,3 +89,5 @@ In the body of your email again include
 
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/careers-managing-your-job-search'>careers managing your job search </a> on Learn.co and start learning to code for free.</p>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/careers-managing-your-job-search'>Managing Your Job Search</a> on Learn.co and start learning to code for free.</p>
