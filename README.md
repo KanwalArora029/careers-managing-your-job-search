@@ -61,7 +61,7 @@ As a committed jobseeker you’ll:
 
 If you don't commit to the job search in this way and don't track your activities, you're far less likely to get a job offer, and far less likely for an offer to be the one that you want.
 
-## Assignment - Job Search Tracker
+## If You Have a Premium Account: Assignment - Job Search Tracker
 
 Open this [sample job search tracker](https://docs.google.com/spreadsheets/d/1B3Xn3eXOCz-8PTo1BKv-JRVAS7Hsz3UNx__6YJK14Ps/edit#gid=2009025976), make a copy of it, and share that doc with your coach with edit privileges. Name your new copy “Your Name” + "Job Search Tracker”.
 
@@ -71,7 +71,7 @@ This tracker has 3 tabs that track the following things:
 2. Your job search activity; the companies you're talking to, the contact names at those companies, the status of each of your interviews
 3. Your target leads/companies; these are companies/people you hope to talk to in the near future. Track whatever information is helpful for you, and once that conversation becomes real, transfer that data to the "activity" tab. 
 
-**Email** the link of your job search tracker url to your coach for tracking purposes. You'll be assigned a coach once you're through ~75% of the full stack web track so if you don't have a coach now, just keep learning to code and we'll get you set up with one when we feel you're ready to focus on career preparation in addition to technical curriculum. Once you have a coach, you can start submitting assignments.
+**Email** the link of your job search tracker url to your coach for tracking purposes. You'll be assigned a coach once you're through ~75% of the full stack web track so if you don't have a coach now, just keep learning to code and we'll get you set up with one when we feel you're ready to focus on career preparation in addition to technical curriculum. Once you have a coach, you can start submitting assignments. **You are expected to keep this tracker up to date.**
 
 Remember in the subject line, to include your name and this specific assignment. Assignment titles will always be in the Assignment heading. If there is an assignment without a title next to it, that means these are action items for you to follow but you won’t need to submit anything to us. But always complete the action items!
 
@@ -86,8 +86,5 @@ In the body of your email again include
 >Your City, State
 
 >Url link to this specific google doc
-
-
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/careers-managing-your-job-search'>careers managing your job search </a> on Learn.co and start learning to code for free.</p>
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/careers-managing-your-job-search'>Managing Your Job Search</a> on Learn.co and start learning to code for free.</p>
