@@ -63,6 +63,6 @@ If you don't commit to the job search in this way and don't track your activitie
 
 ## What next? 
 
-If you have a Premium account, you'll be assigned a coach once you're through ~75% of the full stack web track and have passed your first Rails assessment. So if you don't have a coach now, just keep learning to code and we'll get you set up with one when you're ready to focus on career preparation in addition to technical curriculum. Once you have a coach, you can start submitting assignments. **When you start your job search, you'll be expected to keep a tracker of your own up to date.**
+If you will be working with Career Services, you'll be assigned a coach once you're about ~75% of the way through the curriculum. So if you don't have a coach now, just keep learning to code and we'll get you set up with one when you're ready to focus on career preparation in addition to technical curriculum. When you start your job search, you'll be expected to keep a tracker of your own up to date. **When you start your job search, you'll be expected to keep a tracker of your own up to date.**
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/careers-managing-your-job-search'>Managing Your Job Search</a> on Learn.co and start learning to code for free.</p>
