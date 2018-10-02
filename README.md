@@ -48,7 +48,7 @@ Spreadsheets allow you to store all your job search related activities in a cent
 
 If you don’t track your progress, it may feel like you’ve done a lot of networking, but in reality only reached out to a handful of people. A [job search tracker](https://docs.google.com/spreadsheets/d/1CMFzB1zUQl_yR2ZO9kZdDjPZJEupsjULC6G_vRTUgnU/edit#gid=2065124896), will show the progress you've made at a given time. With one, it's easy to see if you need to do extra outreach or not.
 
-Here's an example of a [job search tracker](https://docs.google.com/spreadsheets/d/1CMFzB1zUQl_yR2ZO9kZdDjPZJEupsjULC6G_vRTUgnU/edit#gid=2065124896)that you'll use later in your process.
+Here's an example of a [job search tracker](https://docs.google.com/spreadsheets/d/1CMFzB1zUQl_yR2ZO9kZdDjPZJEupsjULC6G_vRTUgnU/edit#gid=2065124896) that you'll use later in your process.
 
 ## Be Active
 
