@@ -1,6 +1,6 @@
 # Managing Your Job Search 
 
-Finding a job takes time and commitment. To land a job as a web developer, you must be an active job seeker. Below you'll see how active seekers operate as well as ways you can strategize and manage your job search.  
+Finding a job takes time and commitment. To land a job, you must be an active job seeker. Below you'll see how active seekers operate as well as ways you can strategize and manage your job search.  
 
 ## Passive vs. Active Job Seekers
 
@@ -12,7 +12,7 @@ There are two kinds of job seekers: passive and active
 
 Here are practices active seekers put into place:
 
-1. *Building* - apps, projects, etc. Ultimately, assembling a portfolio of work samples and continuing to grow as a developer.
+1. *Building* - apps, projects, etc. Ultimately, assembling a portfolio of work samples and continuing to grow as a professional.
 2. *Blogging* - as a way to document learning or discuss news/events in the industry. 
 3. *Networking* - going to meetups, conferences, and other events. 
 4. *Contacting people directly* - asking for informal/coffee meetings, introductions, etc. from existing and new relationships.
@@ -54,12 +54,12 @@ Here's an example of a [job search tracker](https://docs.google.com/spreadsheets
 
 As a committed job-seeker you’ll:
 
-* Dedicate the time required for an effective job search by scheduling specific activities in your daily calendar (e.g. 3 hours coding, 2 hours researching opportunities, and 2 hours sending emails)
-* Build apps, blog, network, and actively outreach to your network
+* Dedicate the time required for an effective job search by scheduling specific activities in your daily calendar (e.g. 3 hours practicing your technical skills, 2 hours researching opportunities, and 2 hours sending emails)
+* Build projects, blog, network, and actively outreach to your network
 * Treat the job search process like a salesperson
 * Create a special place to track your progress
 * If you don't commit to the job search in this way and don't track your activities, you're far less likely to get a job offer, and far less likely for an offer to be the one that you want.
 
 ## What Next?
 
-If you will be working with Career Services, you'll be assigned a Career Coach once you're about ~75% of the way through the curriculum. So if you don't have a coach now, just keep learning to code and we'll get you set up with one when you're ready to focus on career preparation in addition to technical curriculum. When you start your job search, you'll be expected to keep a [job search tracker](https://docs.google.com/spreadsheets/d/1CMFzB1zUQl_yR2ZO9kZdDjPZJEupsjULC6G_vRTUgnU/edit#gid=2065124896) of your own up to date.
+If you will be working with Career Services, you'll be assigned a Career Coach once you're about ~75% of the way through the curriculum. So if you don't have a coach now, just keep learning and we'll get you set up with one when you're ready to focus on career preparation in addition to technical curriculum. When you start your job search, you'll be expected to keep a [job search tracker](https://docs.google.com/spreadsheets/d/1CMFzB1zUQl_yR2ZO9kZdDjPZJEupsjULC6G_vRTUgnU/edit#gid=2065124896) of your own up to date.
