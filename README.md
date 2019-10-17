@@ -36,19 +36,20 @@ A job search funnel looks something like this:
 
 Like a salesperson, you want to start off by making many contacts. Some of these will turn into phone calls and informal meetings. Sometimes, these connections will introduce you to a contact of theirs at a particular company. From these informal meetings, fewer will lead to interviews. That’s okay, that’s how the job search (aka sales) process works! And then all the way at the bottom of the funnel is a job offer — the fewest in number.
 
-To help manage your job search funnel, you can use a [job search tracker](https://docs.google.com/spreadsheets/d/1CMFzB1zUQl_yR2ZO9kZdDjPZJEupsjULC6G_vRTUgnU/edit#gid=2065124896).
+To help manage your job search funnel, you can use a job search tracker.  Your Career Coach will provide you with an individualized tracker for your use.
 
 ## An Example Job Search Tracker
 
-Successful salespeople track their work in a database so they know how much activity they must generate to achieve their goals. Think of your job search the same way. And, just like a salesperson, you can measure your progress with a [job search tracker](https://docs.google.com/spreadsheets/d/1CMFzB1zUQl_yR2ZO9kZdDjPZJEupsjULC6G_vRTUgnU/edit#gid=2065124896).
+Successful salespeople track their work in a database so they know how much activity they must generate to achieve their goals. Think of your job search the same way. And, just like a salesperson, you can measure your progress with a job search tracker. 
 
-While there are various ways you can track your search (like with a notebook), one of the best options is in a spreadsheet. (Preferably GoogleSheets so you can easily share it with your Career Coach.) When you store information in a spreadsheet, it’s easy to locate at all times...unlike a notebook which is easy to misplace or leave at home. Plus, you can access the information again down the road — like in a future job search.
+While there are various ways you can track your search (like with a notebook), one of the best options is in a spreadsheet. When you store information in a spreadsheet, it’s easy to locate at all times...unlike a notebook which is easy to misplace or leave at home. Plus, you can access the information again down the road — like in a future job search.
 
 Spreadsheets allow you to store all your job search related activities in a central location. You can even add filters to quickly sort information based on type (like by contact date).
 
-If you don’t track your progress, it may feel like you’ve done a lot of networking, but in reality only reached out to a handful of people. A [job search tracker](https://docs.google.com/spreadsheets/d/1CMFzB1zUQl_yR2ZO9kZdDjPZJEupsjULC6G_vRTUgnU/edit#gid=2065124896), will show the progress you've made at a given time. With one, it's easy to see if you need to do extra outreach or not.
+If you don’t track your progress, it may feel like you’ve done a lot of networking, but in reality only reached out to a handful of people. A job search tracker will show the progress you've made at a given time. With one, it's easy to see if you need to do extra outreach or not.
 
-Here's an example of a [job search tracker](https://docs.google.com/spreadsheets/d/1CMFzB1zUQl_yR2ZO9kZdDjPZJEupsjULC6G_vRTUgnU/edit#gid=2065124896) that you'll use later in your process.
+Here is an example of a [job search tracker](https://docs.google.com/spreadsheets/d/1zdl3Cs3ev0ehS9h2in1aNntLWNVUExNEjdi4Vn_ydy8/edit?usp=sharing).
+
 
 ## Be Active
 
@@ -62,4 +63,4 @@ As a committed job-seeker you’ll:
 
 ## What Next?
 
-If you will be working with Career Services, you'll be assigned a Career Coach once you're about ~75% of the way through the curriculum. So if you don't have a coach now, just keep learning and we'll get you set up with one when you're ready to focus on career preparation in addition to technical curriculum. When you start your job search, you'll be expected to keep a [job search tracker](https://docs.google.com/spreadsheets/d/1CMFzB1zUQl_yR2ZO9kZdDjPZJEupsjULC6G_vRTUgnU/edit#gid=2065124896) of your own up to date.
+If you will be working with Career Services, you'll be assigned a Career Coach once you're about ~75% of the way through the curriculum. So if you don't have a coach now, just keep learning and we'll get you set up with one when you're ready to focus on career preparation in addition to technical curriculum. When you start your job search, you'll be expected to keep a job search tracker, which your Career Coach will provide you with.
