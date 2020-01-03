@@ -4,9 +4,9 @@ Finding a job takes time and commitment. To land a job, you must be an active jo
 
 ## Passive vs. Active Job Seekers
 
-There are two kinds of job seekers: passive and active
+There are two kinds of job seekers: passive and active.
 
-**Passive (or hobbyist) job seekers** try to cut corners when it comes to their job search. Instead of dedicating time to the search process, passive seekers feel entitled to a job. As a result, they often make excuses like, “There are no jobs out there.” Passive seekers do insufficient research and ultimately sloppy work. You don’t want to be this kind of jobseeker. 
+**Passive (or hobbyist) job seekers** try to cut corners when it comes to their job search. Instead of dedicating time to the search process, passive seekers feel entitled to a job. As a result, they often make excuses like, “There are no jobs out there.” Passive seekers do insufficient research and ultimately sloppy work. You don’t want to be this kind of job seeker. 
 
 **Active job seekers** are committed to finding a job and put in the hard work associated with it. As an active seeker you'll block out time to search for opportunities, research companies and positions, network with influencers, establish a job search tracking system, and follow up with contacts.
 
@@ -27,7 +27,7 @@ Sales funnels start at the top and narrow as they head towards the bottom. They 
 
 Another term salespeople use is “conversion rate”. In simple terms, it’s the percentage of people who take a desired action. For salespeople, the desired action is a new lead purchasing what they are selling. Conversion rates are often used by salespeople as a benchmark to see if they’re on track with hitting their goals.
 
-As a jobseeker, you can also think about conversion rates as a way to measure your progress. When it comes to sending out emails, set a goal for a 25-30% conversion rate. Meaning that if you send out ten emails, you can expect 2 or 3 responses. This is why it’s important to send out a lot of (high quality, engaging, compelling) emails as you’re job hunting.
+As a job seeker, you can also think about conversion rates as a way to measure your progress. When it comes to sending out emails, set a goal for a 25-30% conversion rate. Meaning that if you send out ten emails, you can expect 2 or 3 responses. This is why it’s important to send out a lot of (high quality, engaging, compelling) emails as you’re job hunting.
 Overall, funnels are a good way to budget how much time and outreach you should do. They also remind us that rejection is normal.
 
 A job search funnel looks something like this:
