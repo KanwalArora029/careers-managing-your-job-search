@@ -25,7 +25,7 @@ When it comes to closing deals, salespeople are strategic. They use tools to tra
 
 Sales funnels start at the top and narrow as they head towards the bottom. They are the widest at the upper part because of the many initial contacts made. At the very bottom, the funnel is the smallest in size — reflecting the number of activities from the first points of contact.
 
-Another term salespeople use is “conversion rate”. In simple terms, it’s the percentage of people who take a desired action. For salespeople, the desired action is a new lead purchasing what they are selling. Conversion rates are often used as a benchmark to see if they’re on track with hitting their goals.
+Another term salespeople use is “conversion rate”. In simple terms, it’s the percentage of people who take a desired action. For salespeople, the desired action is a new lead purchasing what they are selling. Conversion rates are often used by salespeople as a benchmark to see if they’re on track with hitting their goals.
 
 As a jobseeker, you can also think about conversion rates as a way to measure your progress. When it comes to sending out emails, set a goal for a 25-30% conversion rate. Meaning that if you send out ten emails, you can expect 2 or 3 responses. This is why it’s important to send out a lot of (high quality, engaging, compelling) emails as you’re job hunting.
 Overall, funnels are a good way to budget how much time and outreach you should do. They also remind us that rejection is normal.
